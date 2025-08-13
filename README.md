@@ -70,12 +70,7 @@ It’s my way of mixing math, humor, and identity into one nickname. 😄
 ---
 
 ### 📊 GitHub Activity & Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=10tothepowerof6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="right">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=10tothepowerof6&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
