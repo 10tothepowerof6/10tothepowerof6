@@ -35,20 +35,20 @@ My goal is to bridge the logical world of algorithms with the emotional depth of
 A looping horror game where players:  
 - Move through interconnected rooms.  
 - Manage a **limited flashlight** that dims over time.  
-- Detect and counter unique **anomalies** — failure means instant death.  
+- Detect and counter unique **anomalies**, failure means instant death.  
 
 ---
 
 ## ✨ About the nickname `10tothepowerof6`
 `10^6 = 1,000,000`, which sounds like “Triệu” in Vietnamese.  
-It’s my way of mixing math, humor, and identity into one nickname. 😄  
+It’s my way of mixing math, humor, and identity into one nickname. 
 
 ---
 
 ## 🎲 Fun Facts
 - I may or may not have **ADHD** → when focused, I obsess over tiny details for hours.  
-- Do I play games a lot? Not really — I’m too busy wondering *“How did they code this?”* 😅  
-- Sometimes I open Unity just to tweak one variable, then end up rewriting an entire system 🤣  
+- Do I play games a lot? Not really — I’m too busy wondering *“How did they code this?”* 
+- Sometimes I open Unity just to tweak one variable, then end up rewriting an entire system 
 
 ---
 
