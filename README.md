@@ -2,7 +2,7 @@
 
 # 10tothepowerof6
 
-### AI Students & Indie Game Developer
+### AI Student & Indie Game Developer
 
 <p>
   Building the bridge between algorithmic logic and emotional experience.
