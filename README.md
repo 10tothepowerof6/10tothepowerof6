@@ -2,21 +2,21 @@
 
 # 10tothepowerof6
 
-### AI Student & Indie Game Developer
+### AI Student • Indie Game Developer
 
 <p>
-  Building the bridge between algorithmic logic and emotional experience.
+  Bridging algorithmic intelligence with emotional player experience.
   <br>
   Undergraduate in Artificial Intelligence.
 </p>
 
 <br>
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+<img src="https://img.shields.io/badge/C%23-2E7D32?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/Python-2B5B84?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
 </div>
 
@@ -24,31 +24,35 @@
 
 ## /whoami
 
-I am a university student driven by two obsessions: **intelligent adaptive systems** and **immersive storytelling**. While my academic focus is Artificial Intelligence, my heart lies in Game Development. I don't just write code; I craft experiences.
+I’m a university student driven by **intelligent adaptive systems** and **immersive storytelling**. My academic focus is AI, but my craft is building game experiences that feel alive and reactive.
 
-**The name `10tothepowerof6`:**
-Mathematically, $10^6 = 1,000,000$. In Vietnamese, one million is "Triệu". It is a blend of identity, mathematics, and a bit of wordplay.
+**The name `10tothepowerof6`:**  
+$10^6 = 1,000,000$ — “Triệu” in Vietnamese. A mix of identity, math, and wordplay.
 
 ---
 
 ## /development-focus
 
-### 🧠 Artificial Intelligence
-Focusing on **LLMs**, **Generative AI**, and **Agentic Behaviors**. My goal is to move beyond static scripts to create dynamic, responsive entities.
+### Artificial Intelligence
+Currently studying **Neural Networks** with the goal of building a **simple LLM prototype** as a foundation for future Generative AI work.  
+My longer-term direction is to **integrate LLMs into Unity**, focusing on:
+- **Conversational NPCs** that react to player context and choices
+- **Dynamic narrative systems** that adapt to player decisions
+- **Tool-assisted content workflows** to speed up iteration
 
-### 🎮 Game Engineering
-Currently developing a **Survival Horror / Puzzle** title with a Y2K Cyberpunk aesthetic.
-*   **Core Mechanics:** Non-Euclidean loops, resource management (dynamic lighting decay), and anomaly detection.
-*   **Technical Challenge:** optimizing render pipelines and managing state machines for unpredictable horror elements.
+### Game Engineering
+I’m building my first horror game, **The Tỉtor**, a retro pixel-art project inspired by early **Chilla’s Art** and lightly influenced by **Five Nights at Freddy’s**.
 
----
+**Game pillars**
+- **Branching narrative** with multiple endings driven by player choices and interactions
+- **Player-NPC interaction** as a core loop to influence story outcomes
+- **Atmosphere and tension** through pacing and environmental feedback
 
-## /personality-matrix
-
-*   **Deep Focus:** I possess a hyper-focused workflow (ADHD trait) that allows me to obsess over micro-details for extended periods.
-*   **Curiosity over Consumption:** I spend less time playing games and more time reverse-engineering them.
-*   **Refactor Addiction:** I have a tendency to turn a simple variable tweak into a full system architecture rewrite for the sake of "clean code."
-
+**My responsibilities**
+- End-to-end programming and gameplay logic
+- Game design and system architecture
+- Co-developing ideas with a teammate
+  
 ---
 
 ## /connect
@@ -56,7 +60,7 @@ Currently developing a **Survival Horror / Puzzle** title with a Y2K Cyberpunk a
 <div align="left">
 
 <a href="mailto:xtrieu229@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://discord.com/users/597418393523453973">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
@@ -69,4 +73,4 @@ Currently developing a **Survival Horror / Puzzle** title with a Y2K Cyberpunk a
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=10tothepowerof6&theme=dark&hide_border=true&background=0D1117&ring=3776AB&fire=E44C30&currStreakLabel=3776AB)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=10tothepowerof6&theme=dark&hide_border=true&background=0D1117&ring=2B5B84&fire=F05032&currStreakLabel=2B5B84" alt="GitHub Streak"/>
