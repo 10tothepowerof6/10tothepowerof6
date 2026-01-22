@@ -65,7 +65,7 @@ I’m building my first horror game, **The Tỉtor**, a retro pixel-art project 
 <a href="https://discord.com/users/597418393523453973">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="https://www.facebook.com/0x7e1">
+<a href="https://www.facebook.com/10tothepowerof6">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
