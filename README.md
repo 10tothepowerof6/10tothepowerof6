@@ -1,22 +1,23 @@
 <div align="center">
 
-# 10tothepowerof6
+# `10tothepowerof6`
 
-### AI Student • Indie Game Developer
+### AI Engineer (in progress) • Builder of things that think
 
 <p>
-  Bridging algorithmic intelligence with emotional player experience.
-  <br>
-  Undergraduate in Artificial Intelligence.
+  I build systems that understand context, not just commands.<br/>
+  Undergraduate in Artificial Intelligence — figuring out the hard parts in public.
 </p>
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-<img src="https://img.shields.io/badge/C%23-2E7D32?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/Python-2B5B84?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+![Python](https://img.shields.io/badge/Python-2B5B84?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-2E7D32?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -24,35 +25,46 @@
 
 ## /whoami
 
-I’m a university student driven by **intelligent adaptive systems** and **immersive storytelling**. My academic focus is AI, but my craft is building game experiences that feel alive and reactive.
+The name `10tothepowerof6` is $10^6 = 1{,}000{,}000$ — *"Triệu"* in Vietnamese. A mix of identity, math, and wordplay.
 
-**The name `10tothepowerof6`:**  
-$10^6 = 1,000,000$ — “Triệu” in Vietnamese. A mix of identity, math, and wordplay.
+I'm a second-year AI student who believes the most interesting problems sit at the boundary between **what a system knows** and **what it can reliably say**. That boundary is where I work.
+
+My current focus: **Retrieval-Augmented Generation** — building AI systems grounded in real data, not hallucination.
 
 ---
 
-## /development-focus
+## /now
 
-### Artificial Intelligence
-Currently studying **Neural Networks** with the goal of building a **simple LLM prototype** as a foundation for future Generative AI work.  
-My longer-term direction is to **integrate LLMs into Unity**, focusing on:
-- **Conversational NPCs** that react to player context and choices
-- **Dynamic narrative systems** that adapt to player decisions
-- **Tool-assisted content workflows** to speed up iteration
+### Building — Enterprise RAG Chatbot
+> *Status: In development*
 
-### Game Engineering
-I’m building my first horror game, **The Tỉtor**, a retro pixel-art project inspired by early **Chilla’s Art** and lightly influenced by **Five Nights at Freddy’s**.
+A production-oriented chatbot system for customer support, powered by RAG architecture.
 
-**Game pillars**
-- **Branching narrative** with multiple endings driven by player choices and interactions
-- **Player-NPC interaction** as a core loop to influence story outcomes
-- **Atmosphere and tension** through pacing and environmental feedback
+**The problem it solves:** Most AI chatbots hallucinate when asked about company-specific data. This system grounds every response in the company's own knowledge base — reducing hallucination to near zero.
 
-**My responsibilities**
-- End-to-end programming and gameplay logic
-- Game design and system architecture
-- Co-developing ideas with a teammate
-  
+**Technical scope:**
+- Document ingestion pipeline (PDF, DOCX, structured data)
+- Vector search with semantic retrieval
+- LLM response grounded strictly to retrieved context
+- Confidence-aware output — the system knows when not to answer
+
+**Stack:** Python · LangChain · Vector DB (FAISS / ChromaDB) · OpenAI / Gemini API
+
+---
+
+## /focus
+
+```
+Current learning arc:
+  ├── RAG architecture & chunking strategies
+  ├── Prompt engineering for factual grounding
+  ├── MLOps basics (Docker, API serving)
+  └── Pattern Recognition (coursework — year 3)
+
+Next:
+  └── Fine-tuning & LLM evaluation frameworks
+```
+
 ---
 
 ## /connect
@@ -60,17 +72,16 @@ I’m building my first horror game, **The Tỉtor**, a retro pixel-art project 
 <div align="left">
 
 <a href="mailto:xtrieu229@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://discord.com/users/597418393523453973">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://www.facebook.com/10tothepowerof6">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=10tothepowerof6&theme=dark&hide_border=true&background=0D1117&ring=2B5B84&fire=F05032&currStreakLabel=2B5B84" alt="GitHub Streak"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=10tothepowerof6&theme=dark&hide_border=true&background=0D1117&ring=2B5B84&fire=F05032&currStreakLabel=2B5B84"/>
+</div>
